@@ -1,5 +1,5 @@
 title: Photon-HDF5
-description: A file format for freely-diffusing single-molecule experiments.
+description: A file format for timestamp-based single-molecule experiments.
 google_analytics: 
 show_downloads: true
 theme: jekyll-theme-cayman
