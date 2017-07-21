@@ -13,9 +13,9 @@ Photon-HDF5 use [phconvert](http://photon-hdf5.github.io/phconvert/).
 
 ## Latest News
 
-We are currently working on the next Photon-HDF5 version (0.5) which will support 
+*We are currently working on the next Photon-HDF5 version (0.5) which will support 
 many more measurement types. This is a good time for proposing new features. 
-You are more than welcome to partecipate or follow us using GitHub Issues:
+You are more than welcome to partecipate or follow us using GitHub Issues:*
 
 - [Photon-HDF5 GitHub Issues for 0.5 Milestone](https://github.com/Photon-HDF5/photon-hdf5/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+milestone%3A0.5)
 
