@@ -1,16 +1,5 @@
 # Welcome to Photon-HDF5 Project
 
-## Quick-start: View Files
-
-To open and export data from example Photon-HDF5 files install the HDF5 viewer 
-[HDFView](https://www.hdfgroup.org/products/java/release/download.html)
-and download the [example Photon-HDF5 data files](http://dx.doi.org/10.6084/m9.figshare.1456362).
-
-## Quick-start: Convert Files
-
-To convert files from other formats (PicoQUant PTU, HT3, Beker Hickl SPC, etc.) to 
-Photon-HDF5 use [phconvert](http://photon-hdf5.github.io/phconvert/).
-
 ## Latest News
 
 *We are currently working on the next Photon-HDF5 version (0.5) which will support 
