@@ -12,7 +12,10 @@
   <body>
     <section class="page-header">
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }} !</h2>
+      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+      <a href="http://photon-hdf5.readthedocs.io/" class="btn">Reference Documentation</a>
+      <a href="http://dx.doi.org/10.6084/m9.figshare.1456362/" class="btn">Example data files</a>
+      <a href="http://photon-hdf5.github.io/photon_hdf5_reading_examples/" class="btn">Code example: how-to read</a>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
