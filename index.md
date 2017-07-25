@@ -64,7 +64,7 @@ Software supporting Photon-HDF5 for reading or writing:
 
 - [FRETBursts](http://fretbursts.readthedocs.io): burst analysis software for diffusion-based smFRET (*read support*).
 - [PyBroMo](http://tritemio.github.io/PyBroMo/) confocal smFRET simulator (*write support*).
-- [AliX](https://sites.google.com/a/g.ucla.edu/alix/): smFRET analysis and more (*read support*).
+- [ALiX](https://sites.google.com/a/g.ucla.edu/alix/): smFRET analysis and more (*read support*).
 
 If you would like to add other software to this list please [contact us](https://groups.google.com/forum/#!forum/photon-hdf5).
 
