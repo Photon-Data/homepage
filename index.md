@@ -16,7 +16,7 @@ single-molecule FRET (smFRET) (with or without lifetime),
 Fluorescence Correlation Spectroscopy (FCS)
 and related photon-counting techniques.
 
-Photon-HDF5 is not limited to fluorescence-based techinues.
+Photon-HDF5 is not limited to fluorescence-based techniques.
 Any dataset containing photon timestamps and other per-photon data
 can be stored using the Photon-HDF5 format.
 Photon-HDF5 can store important experimental details
